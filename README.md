@@ -18,11 +18,11 @@
     <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
 </div>
 
-### My Mission
-I’m driven by a love for solving problems with data! Transitioning from a dentistry track to analytics, I've embraced the power of data to tell stories and solve real-world challenges. My mission is to leverage analytics to drive strategic decisions and create impactful solutions.
+### About Me
+I’m driven by a love for solving problems with data! Transitioning from molecular biology research to analytics, I've embraced the power of data to tell stories and solve real-world challenges. My mission is to leverage analytics to drive strategic decisions and create impactful solutions.
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=python,r,sql,tableau,powerbi,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,sqlite,tableau,powerbi,git)](https://skillicons.dev)
 
 ### Currently Studying
 [![Learning](https://skillicons.dev/icons?i=aws,ml,azure)](https://skillicons.dev)
