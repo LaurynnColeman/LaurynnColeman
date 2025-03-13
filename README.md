@@ -4,10 +4,10 @@
     Please give her a follow. Her LinkedIn @daria-stanilevici.
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFC0CB&width=435&lines=Hello%2C+it's+Laurynn;Data+Analytics+Professional" alt="Decision Analytics Professional"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=DCDCDC&width=435&lines=Hello%2C+it's+Laurynn;Data+Analytics+Professional" alt="Decision Analytics Professional"/>
 </a>
 
 <!--
@@ -42,5 +42,11 @@ I’m driven by a love for solving problems with data! Transitioning from a dent
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/your-resume-link?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+## Credits
+
+This profile README was inspired by [Daria Stanilevici](https://github.com/daria-stanilevici). Thanks to her for the creative setup and ideas!
+
+Special thanks to everyone who has contributed to my projects and supported my journey.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer" alt="footer"/>
 
