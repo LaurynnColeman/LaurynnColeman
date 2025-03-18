@@ -25,7 +25,7 @@ Originally on a path to dentistry, I discovered data analytics, where the power 
 I've always been a massive film and TV buff—thanks to countless movie nights with my family! Lately, I've totally gotten hooked on Korean dramas. Please feel free to message me on LinkedIn with any recommendations.
 
 ## 🌐 Find Me Online
-🔗 [LinkedIn](www.linkedin.com/in/laurynn-coleman-a4a33a183) | 📁 [View My Portfolio]()
+🔗 [LinkedIn](https://linkedin.com/in/laurynn-coleman-a4a33a183) | 📁 [View My Portfolio]()
 
 Thank you for visiting my GitHub profile!
 
