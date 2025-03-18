@@ -1,52 +1,30 @@
 <!--
-    This README.md was edited from https://github.com/daria-stanilevici
-
-    Please give her a follow. Her LinkedIn @daria-stanilevici.
+    This README.md was edited from [https://github.com/daria-stanilevici](https://github.com/kyechan99/capsule-render
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header" alt="header"/>
+<!-- Header Image -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Laurynn&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="Header Image"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=DCDCDC&width=435&lines=Hello%2C+it's+Laurynn;Data+Analytics+Professional" alt="Decision Analytics Professional"/>
-</a>
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<div>
-    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
-</div>
-
-### About Me
-I’m driven by a love for solving problems with data! Transitioning from molecular biology research to analytics, I've embraced the power of data to tell stories and solve real-world challenges. My mission is to leverage analytics to drive strategic decisions and create impactful solutions.
-
-### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=python,r,sqlite,mysql,tableau,powerbi,git)](https://skillicons.dev)
-
-### Currently Studying
-[![Learning](https://skillicons.dev/icons?i=aws,ml,azure)](https://skillicons.dev)
+## 👋 Welcome to My Profile
+Originally on a path to dentistry, I discovered data analytics, where the power of data to tell compelling stories captivated me. My passion lies in dissecting complex data sets to unveil insights that drive strategic decisions. This Github is meant to show some of the projects I have worked on.
 
 
-### Connect with Me!
-<div>
-    <a href="https://www.linkedin.com/in/your-linkedin-id/">
-        <img src="https://github.com/user-attachments/assets/linkedin-icon.png" alt="LinkedIn" width="35" height="35"/>
-    </a>
-    <a href="https://dev.to/your-dev-id">
-        <img src="https://github.com/user-attachments/assets/dev-icon.png" alt="Dev.to" width="37" height="37"/>
-    </a>
-</div>
+## 🛠 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-R-276DC3?style=flat&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Code-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Tool-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Tool-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/your-resume-link?usp=sharing" download>Download my resume</a>
 
-## Credits
+## 📚 Currently Learning
+- **Advanced Machine Learning Models**
+- **Cloud Services:** AWS, Microsoft Azure
 
-This profile README was inspired by [Daria Stanilevici](https://github.com/daria-stanilevici). Thanks to her for the creative setup and ideas!
+## 😄 Fun Fact About Me
+I've always been a massive film and TV buff—thanks to countless movie nights with my family! Lately, I've totally gotten hooked on Korean dramas. Please feel free to message me on LinkedIn with any recommendations.
 
-Special thanks to everyone who has contributed to my projects and supported my journey.
+🔗 [LinkedIn](www.linkedin.com/in/laurynn-coleman-a4a33a183) | 📁 [View My Portfolio]()
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer" alt="footer"/>
+Thank you for visiting my GitHub profile!
 
