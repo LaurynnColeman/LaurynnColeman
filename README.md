@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Laurynn&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="Header Image"/>
 
 ## 👋 Welcome to My Profile
-Originally on a path to dentistry, I discovered data analytics, where the power of data to tell compelling stories captivated me. My passion lies in dissecting complex data sets to unveil insights that drive strategic decisions. This Github is meant to show some of the projects I have worked on.
+I was originally headed for a career in dentistry, but I developed an interest in data analytics. A new degree later, now I'm interested in digging into data to find cool stories and insights that help make better decisions. Check out some of the projects I've been working on here. Enjoy exploring!
 
 
 ## 🛠 Technologies & Tools
